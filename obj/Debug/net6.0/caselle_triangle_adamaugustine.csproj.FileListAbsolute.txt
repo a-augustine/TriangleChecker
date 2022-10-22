@@ -1,0 +1,15 @@
+D:\Code\caselle_triangle_adamaugustine\bin\Debug\net6.0\caselle_triangle_adamaugustine.exe
+D:\Code\caselle_triangle_adamaugustine\bin\Debug\net6.0\caselle_triangle_adamaugustine.deps.json
+D:\Code\caselle_triangle_adamaugustine\bin\Debug\net6.0\caselle_triangle_adamaugustine.runtimeconfig.json
+D:\Code\caselle_triangle_adamaugustine\bin\Debug\net6.0\caselle_triangle_adamaugustine.dll
+D:\Code\caselle_triangle_adamaugustine\bin\Debug\net6.0\caselle_triangle_adamaugustine.pdb
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\caselle_triangle_adamaugustine.csproj.AssemblyReference.cache
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\caselle_triangle_adamaugustine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\caselle_triangle_adamaugustine.AssemblyInfoInputs.cache
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\caselle_triangle_adamaugustine.AssemblyInfo.cs
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\caselle_triangle_adamaugustine.csproj.CoreCompileInputs.cache
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\caselle_triangle_adamaugustine.dll
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\refint\caselle_triangle_adamaugustine.dll
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\caselle_triangle_adamaugustine.pdb
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\caselle_triangle_adamaugustine.genruntimeconfig.cache
+D:\Code\caselle_triangle_adamaugustine\obj\Debug\net6.0\ref\caselle_triangle_adamaugustine.dll

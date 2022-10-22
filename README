@@ -1,0 +1,4 @@
+This program is written in c# and uses the net6.0 framework
+
+instructions:
+1. Once downloaded run the command 'dotnet run' in the terminal
