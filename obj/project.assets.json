@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\adamn\\.nuget\\packages\\": {}
+    "/Users/adamaugustine/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Code\\Interview_Projects\\TriangleChecker\\caselle_triangle_adamaugustine.csproj",
+      "projectUniqueName": "/Users/adamaugustine/Code/TriangleChecker/caselle_triangle_adamaugustine.csproj",
       "projectName": "caselle_triangle_adamaugustine",
-      "projectPath": "d:\\Code\\Interview_Projects\\TriangleChecker\\caselle_triangle_adamaugustine.csproj",
-      "packagesPath": "C:\\Users\\adamn\\.nuget\\packages\\",
-      "outputPath": "d:\\Code\\Interview_Projects\\TriangleChecker\\obj\\",
+      "projectPath": "/Users/adamaugustine/Code/TriangleChecker/caselle_triangle_adamaugustine.csproj",
+      "packagesPath": "/Users/adamaugustine/.nuget/packages/",
+      "outputPath": "/Users/adamaugustine/Code/TriangleChecker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\adamn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/adamaugustine/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
       }
     }
   }
