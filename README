@@ -5,8 +5,7 @@ instructions:
 - Run the command 'dotnet run' in the terminal
 
 Executable:
-.exe file is located in bin/Debug/net6.0
-'caselle_triangle_adamaugustine.exe'
+.exe file is located in: bin/Debug/net6.0/'caselle_triangle_adamaugustine.exe'
 
 Other notes:
 - The program starting point is the file Program.cs
