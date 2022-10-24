@@ -28,10 +28,11 @@ namespace MainProgram
             }
             catch (Exception e)
             {
-                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"ERROR: {e.Message}");
                 return;
             }
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
         }
     }
 }

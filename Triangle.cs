@@ -41,7 +41,6 @@ namespace CaselleTriangles
         // Function: Print out the details of the triangle
         public void PrintTriangleInformation()
         {
-            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine();
             Console.WriteLine("--- Triangle Information ---");
 
@@ -54,9 +53,7 @@ namespace CaselleTriangles
             }
             else
             {
-                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"The triangle is NOT valid");
-                Console.ForegroundColor = ConsoleColor.Green;
             }
             // Check if the classification types are correct
             if (!(sideClassification.GetClassificationType() == ClassificationType.Side))

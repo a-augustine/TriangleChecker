@@ -27,9 +27,7 @@ namespace CaselleTriangles
                 }
                 else
                 {
-                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("\nERROR: user input must be a number value.");
-                    Console.ForegroundColor = ConsoleColor.White;
                 }
             } while (true);
 
