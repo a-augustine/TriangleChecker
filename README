@@ -1,4 +1,15 @@
-This program is written in c# and uses the net6.0 framework
+This program was created by Adam Augustine. 
+It is written in c# and uses the net6.0 framework
 
 instructions:
-1. Once downloaded run the command 'dotnet run' in the terminal
+- Run the command 'dotnet run' in the terminal
+
+Executable:
+.exe file is located in bin/Debug/net6.0
+'caselle_triangle_adamaugustine.exe'
+
+Other notes:
+- The program starting point is the file Program.cs
+- Files written by me are also contained in folders:
+    1. Classifications
+    2. ClassificationTypes

@@ -1,6 +1,8 @@
 ﻿// Coded by Adam Augustine
 
-namespace CaselleTriangles
+using CaselleTriangles;
+
+namespace MainProgram
 {
     class Program
     {
@@ -13,9 +15,8 @@ namespace CaselleTriangles
                 double triangleSideC = 0;
 
                 InputCheckerSingleton InputChecker = InputCheckerSingleton.Instance();
-                TriangleChecker TriangleCheck = new TriangleChecker();
 
-                Console.WriteLine("Enter triangle values for sides a, b and c");
+                Console.WriteLine("Enter triangle values for sides a, b and c. Press (enter/return) to continue.");
 
                 triangleSideA = InputChecker.CheckForValidInput("a");
                 triangleSideB = InputChecker.CheckForValidInput("b");
@@ -28,7 +29,7 @@ namespace CaselleTriangles
             catch (Exception e)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(e.Message);
+                Console.WriteLine($"ERROR: {e.Message}");
                 return;
             }
         }
