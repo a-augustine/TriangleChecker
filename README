@@ -1,6 +1,9 @@
 This program was created by Adam Augustine. 
 It is written in c# and uses the net6.0 framework
 
+Program details: 
+Takes user input about a triangle and returns the classification of that triangle
+
 instructions:
 - Run the command 'dotnet run' in the terminal
 
